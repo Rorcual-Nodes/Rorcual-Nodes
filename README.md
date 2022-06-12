@@ -1,6 +1,6 @@
 ENG:
 
-Rorcual Nodes is a project developed by 2 crypto enthusiasts that got hooked by the Kujira project. Our goal is to become one of the main Kujira L1 validators by providing quality to the chain infrastructure and adding value to the community.
+Rorcual Nodes is a project developed by 2 crypto enthusiasts that got hooked by Team Kujira's project. Our goal is to become one of the main Kujira L1 validators by providing quality to the chain infrastructure and adding value to the community.
 
 Our nodes are based in physical servers located in Spain, near to the Mediterranean Sea where rorcual whales live. By delegating to Rorcual, you are contributing to the decentralization and security of the Kujira network.
 
